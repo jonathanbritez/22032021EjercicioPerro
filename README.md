@@ -16,6 +16,7 @@ public class clasePerro {
 
 
 public class perro {
+
     String Nombre;
     String Color;
     String Tamaño;
